@@ -1,4 +1,5 @@
-# Java学生管理系统
+# InformationManagementSystem
+基于Java、POI、JDBC的信息管理系统
 
 ## 1.运行代码
 
